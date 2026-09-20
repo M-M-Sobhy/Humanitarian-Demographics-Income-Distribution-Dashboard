@@ -11,7 +11,7 @@ This intelligence tool is structured to empower NGOs, UN agencies, and humanitar
 ---
 
 ## 🚀 Dashboard Overview
-<img width="1379" height="792" alt="Screenshot 2026-05-23 234216" src="https://github.com/user-attachments/assets/d28b7f05-eb23-49d0-9042-33626548cb04" />
+<img width="1142" height="569" alt="Dashboard" src="https://github.com/user-attachments/assets/32cb0a76-0e48-4501-8ba6-b606074c1f66" />
 
 ---
 
